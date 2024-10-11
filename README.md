@@ -1,8 +1,3 @@
-Certainly! Here’s a sample README.md file for your number game:
-
-
----
-
 Number Game
 
 This is a Python-based number game that allows users to test their arithmetic skills by answering randomly generated math questions. Users can choose an operator, and the game will quiz them with five math questions. After answering, the program provides feedback and calculates the user's score.
